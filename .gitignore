@@ -27,8 +27,6 @@ build/
 *.sublime-workspace
 *.swp
 
-# Database dumps
-*.sql
 
 # Optional: Ignore uploads or temp folders if you have them
 uploads/
